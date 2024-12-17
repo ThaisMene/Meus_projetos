@@ -1,0 +1,143 @@
+body{
+    background-color: #f3b7f0;
+    margin:0
+}
+#menu{
+    background-color: #b31e68;
+    width: 300px; 
+    height: 1000px;
+    text-align: center;
+    box-shadow: 5px 0px 5px rgb(255, 253, 253);
+    margin-top: -19px;
+}
+
+ .logo{
+    width: 150px;
+    margin-top: 60px;
+    border: 6px double #fff;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+h1,h2{
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    color:#fff;
+    text-shadow: 5px 0px 15px ;
+}
+.links{
+    text-decoration: none;
+    color: #f3b7f0;
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    transition: all 0.5s ease;
+}
+
+
+.links:hover
+{
+    background-color:#f3b7f0;
+    color:rgb(179, 21, rosa);
+    font-weight: 600px;
+}
+
+ header{
+    float:left
+ }
+
+ .info01{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 21rem;
+    padding: 1rem;
+    border-radius: 25px;
+   }
+ 
+   .info02{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+   .info03{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+   .info04{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+
+   .info05{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+   .info06{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+   .info07{
+    background-color:#b31e68 ;
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
+    border-radius: 25px;
+    width: 250px;
+    height: 200px;
+   }
+
+   #conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+
+   footer {
+    background-color: #b31e68;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: -5px;
+    padding: 0.5rem;
+    clear: both;
+   }
+
+   p {
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   li
+   {
+    font-family: sans-serif;
+   }
+
+   h3
+   {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    text-shadow: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));
+   }
